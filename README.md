@@ -10,10 +10,10 @@ Skills: MATLAB / C & C++ / Python / Visual Studio Code / HTML (a bit)
 - ⚡ Fun fact: I Play flamenco-Guitar & I am learning to skydive. 
 
 ## 🧰 Languages and Tools:
+Skills: MATLAB / C & C++ / Python / Visual Studio Code / HTML (a bit)
 <p align="center">
-  <br>
   
-  Skills: MATLAB / C & C++ / Python / Visual Studio Code / HTML (a bit) </br>
+  Skills: MATLAB / C & C++ / Python / Visual Studio Code / HTML (a bit)
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" height="40" style="vertical-align:top; margin:4px">
   
