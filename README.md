@@ -9,7 +9,7 @@ I made this profile, just to share projects I am working on, and collaborate wit
 - ⚡ Fun fact: I Play flamenco-Guitar & I am learning to skydive. 
 
 ## 🧰 Languages and Tools:
-Skills: MATLAB / C & C++ / Python / Visual Studio Code / HTML (a bit)
+Skills: MATLAB / C & C++ / Python / Visual Studio Code / HTML (a bit) / Git / Arduino
 <p align="center">
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" height="40" style="vertical-align:top; margin:4px">
