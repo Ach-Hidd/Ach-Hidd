@@ -24,8 +24,11 @@ Skills: MATLAB / C & C++ / Python / Visual Studio Code / HTML (a bit)
   
 </p>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ach-Hidd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hiddane.com/)  
+<p align="center">
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ach-Hidd)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hiddane.com/)  
+  
+  </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ach-Hidd)](https://github.com/anuraghazra/github-readme-stats)
 
