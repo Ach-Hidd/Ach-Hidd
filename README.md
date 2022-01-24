@@ -2,7 +2,6 @@
 #### Mechanical Engineer & life-long learner!
 I made this profile, just to share projects I am working on, and collaborate with  intersting people 😇
 
-Skills: MATLAB / C & C++ / Python / Visual Studio Code / HTML (a bit)
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently working on improving my Python skills 
