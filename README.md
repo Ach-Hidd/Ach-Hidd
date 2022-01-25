@@ -34,5 +34,3 @@ Skills: MATLAB / C & C++ / Python / Visual Studio Code / HTML (a bit) / Git / Ar
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ach-Hidd)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ach-Hidd)  
-
