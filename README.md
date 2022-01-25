@@ -4,7 +4,7 @@ I made this profile, just to share projects I am working on, and collaborate wit
 
 
 - 🔭 I’m currently working on creating visualisations for Vector Calculus 
-- 🌱 I’m currently working on improving my Python skills 
+- 🌱 I’m currently improving my Python skills 
 - 👯 I’m looking to collaborate on interesting projects 
 - ⚡ Fun fact: I Play flamenco-Guitar & I am learning to skydive
 
