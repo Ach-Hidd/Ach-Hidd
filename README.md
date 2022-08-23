@@ -6,7 +6,8 @@ I made this profile, just to share projects I am working on, and collaborate wit
 - 🚀 I’m currently working on improving my Python skills 
 - 👯 Looking to collaborate on interesting projects 
 - ⚡ Fun fact: I Play flamenco-Guitar & I am learning to skydive  
-- ![alt text](https://ibb.co/VmK2X14)
+
+![Screenshot](screenshot.png)
 
 
 ## 🧰 Languages and Tools:
