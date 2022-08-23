@@ -5,7 +5,7 @@ I made this profile, just to share projects I am working on, and collaborate wit
 
 - 🚀 I’m currently working on improving my Python skills 
 - 👯 Looking to collaborate on interesting projects 
-- ⚡ Fun fact: I Play flamenco-Guitar & I am learning to skydive  ![Achraf](https://user-images.githubusercontent.com/69202229/186178706-fd389fbe-1af1-4c16-a3d9-b9dd6b0eef5a.jpeg))
+- ⚡ Fun fact: I Play flamenco-Guitar & I am learning to skydive  ![](https://user-images.githubusercontent.com/69202229/186178706-fd389fbe-1af1-4c16-a3d9-b9dd6b0eef5a.jpeg))
 
 
 
