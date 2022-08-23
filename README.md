@@ -8,7 +8,6 @@ I made this profile, just to share projects I am working on, and collaborate wit
 - ⚡ Fun fact: I Play flamenco-Guitar & I am learning to skydive  ![Achraf](https://user-images.githubusercontent.com/69202229/186178706-fd389fbe-1af1-4c16-a3d9-b9dd6b0eef5a.jpeg)
 
 
-![Screenshot](![Achraf](https://user-images.githubusercontent.com/69202229/186178753-867ac01e-efc9-453a-82c3-a670af24f817.jpeg))
 
 
 ## 🧰 Languages and Tools:
