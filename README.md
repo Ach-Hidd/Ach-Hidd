@@ -36,5 +36,8 @@ Skills: MATLAB / C & C++ / Python / Visual Studio Code / HTML (a bit) / Git / Ar
 ![](https://raw.githubusercontent.com/Ach-hidd/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
+![](https://raw.githubusercontent.com/Ach-hidd/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Ach-hidd/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 
