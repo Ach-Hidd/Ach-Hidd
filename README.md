@@ -31,3 +31,5 @@ Skills: MATLAB / C & C++ / Python / Visual Studio Code / HTML (a bit) / Git / Ar
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ach-Hidd&hide=javascript,css,scss)](https://github.com/Ach-Hidd/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ach-hidd)](https://git.io/streak-stats)
+
