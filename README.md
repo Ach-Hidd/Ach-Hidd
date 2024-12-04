@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Achraf
-#### Mechanical Engineer & life-long learner!
+#### Engineer & life-long learner!
 I made this profile, just to share projects I am working on, and collaborate with  intersting people 😇
 
 
