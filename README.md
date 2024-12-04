@@ -3,13 +3,13 @@
 I made this profile, just to share projects I am working on, and collaborate with  intersting people 😇
 
 
-- 🚀 I’m currently working on improving my Python skills 
+- 🚀 Working on refining my math skills for optimization and algorithm efficiency
 - 👯 Looking to collaborate on interesting projects 
 - ⚡ Fun fact: I am a Skydiver & a Flamenco-Guitarist
 
 
 ## 🧰 Languages and Tools:
-Skills: MATLAB / C & C++ / Python / Visual Studio Code / HTML (a bit) / Git / Arduino
+Skills: MATLAB-Simulink / C & C++ / Python
 <p align="center">
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" height="40" style="vertical-align:top; margin:4px">
