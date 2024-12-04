@@ -3,7 +3,7 @@
 I made this profile, just to share projects I am working on, and collaborate with  intersting people 😇
 
 
-- 🚀 Working on refining my math skills for optimization and algorithm efficiency
+- 🚀 Working on refining my Math skills for optimization, algorithm efficiency, and dynamic system modeling
 - 👯 Looking to collaborate on interesting projects 
 - ⚡ Fun fact: I am a Skydiver & a Flamenco-Guitarist
 
